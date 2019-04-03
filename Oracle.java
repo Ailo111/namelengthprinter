@@ -16,7 +16,22 @@ public class Oracle
 	    String response = input.nextLine();
 	    System.out.println("Pick a nuwmber 0-7");
 	    int number = input.nextInt();
-	
+		                    
+//       \`*-.                    
+//        )  _`-.                 
+//       .  : `. .                
+//       : _   '  \               
+//       ; *` _.   `*-._          
+//       `-.-'          `-.       
+//         ;       `       `.     
+//         :.       .        \    
+//         . \  .   :   .-'   .   
+//         '  `+.;  ;  '      :   
+//         :  '  |    ;       ;-. 
+//         ; '   : :`-:     _.`* ;
+//      .*' /  .*' ; .*`- +'  `*' 
+//      `*-*   `*-*  `*-*'
+		
         
         String[] theyArray = {"Its nowt worth it-Pwankton",
         "Yes! Yes! It's twue!UwU It's all twue! - Spongebowb", 
