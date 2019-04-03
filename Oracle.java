@@ -17,6 +17,7 @@ public class Oracle
 	    System.out.println("Pick a nuwmber 0-7");
 	    int number = input.nextInt();
 		                    
+                       
 //       \`*-.                    
 //        )  _`-.                 
 //       .  : `. .                
@@ -29,7 +30,7 @@ public class Oracle
 //         '  `+.;  ;  '      :   
 //         :  '  |    ;       ;-. 
 //         ; '   : :`-:     _.`* ;
-//      .*' /  .*' ; .*`- +'  `*' 
+//       .*' /  .*' ; .*`- +'  `*' 
 //      `*-*   `*-*  `*-*'
 		
         
