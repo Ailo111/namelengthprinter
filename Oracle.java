@@ -5,18 +5,6 @@ User asks a 'yes or no' question and it will answer with spongebob quotes
 1/25/19
 */ 
 
-import java.util.*;
-public class Oracle
-{
-
-	public static void main(String[] args)
-	{
-	    Scanner input = new Scanner(System.in);
-	    System.out.println("Awsk a yes ow no quwestion.");
-	    String response = input.nextLine();
-	    System.out.println("Pick a nuwmber 0-7");
-	    int number = input.nextInt();
-		                    
 //       \`*-.                    
 //        )  _`-.                 
 //       .  : `. .                
@@ -31,6 +19,20 @@ public class Oracle
 //         ; '   : :`-:     _.`* ;
 //      .*' /  .*' ; .*`- +'  `*' 
 //      `*-*   `*-*  `*-*'
+
+import java.util.*;
+public class Oracle
+{
+
+	public static void main(String[] args)
+	{
+	    Scanner input = new Scanner(System.in);
+	    System.out.println("Awsk a yes ow no quwestion.");
+	    String response = input.nextLine();
+	    System.out.println("Pick a nuwmber 0-7");
+	    int number = input.nextInt();
+		                    
+
 		
         
         String[] theyArray = {"Its nowt worth it-Pwankton",
